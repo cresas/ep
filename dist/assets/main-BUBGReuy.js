@@ -33472,9 +33472,9 @@ BE.propTypes = {
 };
 const rq = "_background_1xqeb_1",
 	sq = "_imageMask_1xqeb_11",
-	oq = "",
-	aq = "",
-	lq = "",
+	oq = "_gradient_1xqeb_17",
+	aq = "_logoHeader_1xqeb_26",
+	lq = "_logo_1xqeb_26",
 	cq = "_customLogo_1xqeb_63",
 	uq = "_gameData_1xqeb_88",
 	fq = "_imageWrapper_1xqeb_115",
@@ -36841,7 +36841,7 @@ function p8({
 		title: r("common.final.gameWinTitle"),
 		subtitle: l
 	}) : o === Ia.LOST ? v.jsx(d8, {
-		title: "Game Over",
+		title: "Oyun Sonu",
 		points: c
 	}) : v.jsx(h8, {
 		points: c,
