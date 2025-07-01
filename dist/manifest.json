@@ -1,0 +1,15 @@
+{
+  "src/main-BQMitlwn.css": {
+    "file": "assets/main-BQMitlwn.css",
+    "src": "src/main-BQMitlwn.css"
+  },
+  "src/main.jsx": {
+    "file": "assets/main-BUBGReuy.js",
+    "name": "main",
+    "src": "src/main.jsx",
+    "isEntry": true,
+    "css": [
+      "assets/main-BQMitlwn.css"
+    ]
+  }
+}
